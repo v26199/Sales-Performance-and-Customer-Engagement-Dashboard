@@ -1,6 +1,9 @@
-# Comprehensive Sales & Customer Analytics Dashboard Report (2020-2023)
+# Comprehensive Sales & Customer Analytics Dashboard Report
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/716c933f-ce64-4ee4-99d2-de93417b530f)
+
+![Customer Dashboard](https://github.com/user-attachments/assets/bf21ea6c-07f8-4953-b6af-c5be0dd1f2c7)
+
 
 ## **Table of Contents**
 
