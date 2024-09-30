@@ -85,5 +85,5 @@ This dashboard provides critical insights for decision-makers, highlighting stro
 ## **Technologies Used**
 - **Data Processing:** Python, SQL
 - **Data Visualization:** Tableau
-- **Libraries:** Pandas, NumPy, Matplotlib (if applicable)
+- **Libraries:** Pandas, NumPy, Matplotlib
 
