@@ -14,7 +14,6 @@
 5. [Key Insights and Opportunities](#key-insights-and-opportunities)
 6. [Conclusion and Recommendations](#conclusion-and-recommendations)
 7. [Technologies Used](#technologies-used)
-8. [Getting Started](#getting-started)
 
 ## **Objective**
 This report outlines the steps taken to design an interactive and insightful dashboard for analyzing sales and customer data from 2020 to 2023. The analysis encompasses multiple dimensions, including products, customers, orders, and locations, delivering actionable insights for informed business decision-making.
@@ -83,7 +82,7 @@ This dashboard provides critical insights for decision-makers, highlighting stro
 - Analyze periods of low profitability to enhance cost management.
 
 ## **Technologies Used**
-- **Data Processing:** Python, SQL
+- **Data Processing:** Python, SQL, EDA, Data Modelling, Feature Engineering.
 - **Data Visualization:** Tableau
-- **Libraries:** Pandas, NumPy, Matplotlib
+- **Libraries:** Pandas, NumPy, Matplotlib, Seaborn.
 
