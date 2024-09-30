@@ -1,4 +1,4 @@
-# Comprehensive Sales & Customer Analytics Dashboard Report
+# Sales Performance & Customer Engagement Dashboard
 
 ![Sales Dashboard](https://github.com/user-attachments/assets/716c933f-ce64-4ee4-99d2-de93417b530f)
 
